@@ -1,2 +1,2 @@
-# hackerrank-js
-A repository to store my HackerRank JavaScript solutions.
+# hackerrank
+A repository to store my HackerRank solutions.
